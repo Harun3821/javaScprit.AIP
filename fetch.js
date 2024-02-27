@@ -1,5 +1,5 @@
 
-// fetch('https://jsonplaceholder.typicode.com/posts/1') //--API//
+// fetch('https://jsonplaceholder.typicode.com/posts/1') //--API--- application programming interface//
 //  .then((response) => response.json()) // json is not similir but close to json.parse
 //   .then((json) => console.log(json));
 
